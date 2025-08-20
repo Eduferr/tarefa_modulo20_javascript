@@ -15,3 +15,6 @@ const indiceMaiorMenor = (lista) => {
     return { indiceMaior, indiceMenor };
 }
 console.log(indiceMaiorMenor([5, 12, 3, 9, 1]))
+
+
+module.exports = { indiceMaiorMenor }
