@@ -1,4 +1,4 @@
-const { mdc } = require("./calculoMdc")
+const { mdc } = require("../source/calculoMdc")
 
 //import mdc from "./calculeMdc"
 

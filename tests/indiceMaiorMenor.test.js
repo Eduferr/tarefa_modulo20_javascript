@@ -1,4 +1,4 @@
-const { indiceMaiorMenor } = require('./indiceMaiorMenor')
+const { indiceMaiorMenor } = require('../source/indiceMaiorMenor')
 
 describe('Funcionalidade buscar Índice', () => {
     it('Buscar os índices de maior e menor valor', () => {
